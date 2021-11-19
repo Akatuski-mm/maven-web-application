@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>gopi krishna Snapshot Nexus Repository </name>
-	      <url>http://13.233.104.24:8081/repository/snapchat-snapshot/</url>
+	      <url>http://13.233.104.24:8081/repository/snapchat-snapshot</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
