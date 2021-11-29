@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://3.110.87.164:9000/</sonar.host.url>
+		<sonar.host.url>http://15.206.91.58:9000/</sonar.host.url>
                 <sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>  
               
@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>gopi krishna Releases Nexus Repository</name>
-	      <url>http://13.233.10.170:8081/repository/snapchat-release/</url>
+	      <url>http://3.110.136.135:8081/repository/snapchat-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>gopi krishna Snapshot Nexus Repository </name>
-	      <url>http://13.233.10.170:8081/repository/snapchat-snapshot/</url>
+	      <url>http://3.110.136.135:8081/repository/snapchat-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
